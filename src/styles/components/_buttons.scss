@@ -1,0 +1,16 @@
+.button {
+    padding: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #C0C0C0;
+    color: #001F54;
+    border: none;
+    cursor: pointer;
+
+    &:hover {
+        background-color: lighten($color: #C0C0C0, $amount: 5);
+        color: #001F54;
+        transform: scale(1.05);
+        transition: all 0.3s ease;
+    }
+}
