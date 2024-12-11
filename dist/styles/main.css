@@ -10,7 +10,7 @@
 
 .button:hover {
   color: #001f54;
-  background-color: #cdcdcd;
+  background-color: #e6e6e6;
   transition: all .3s;
   transform: scale(1.05);
 }
@@ -22,6 +22,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  border-bottom: 1px solid #1227669a;
   padding-top: 64px;
   padding-bottom: 80px;
   position: relative;
@@ -114,6 +115,48 @@
   }
 }
 
+.party {
+  background-image: linear-gradient(#1e2f64, #001247);
+  padding-top: 80px;
+}
+
+.party .container {
+  gap: 50px;
+  display: flex;
+}
+
+.party--foods, .party--attractions {
+  background-image: linear-gradient(#001247, #1e2f64);
+}
+
+.party--img-right {
+  flex-direction: row-reverse;
+}
+
+.party__img {
+  width: 300px;
+}
+
+.party__description {
+  color: #fff;
+}
+
+.party__description h3 {
+  margin-bottom: 16px;
+}
+
+@media (width <= 1024px) {
+  .party .container {
+    flex-direction: column;
+    max-width: 80%;
+  }
+
+  .party__img {
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -129,5 +172,33 @@
 
 li {
   list-style: none;
+}
+
+footer {
+  background-image: linear-gradient(#1e2f64, #001247);
+  width: 100%;
+}
+
+footer .container {
+  color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  font-size: 12px;
+  display: flex;
+}
+
+footer h2 {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  margin-bottom: 20px;
+}
+
+footer li {
+  margin-right: 10px;
+  display: inline;
 }
 /*# sourceMappingURL=main.css.map */

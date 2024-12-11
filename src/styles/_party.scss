@@ -1,0 +1,47 @@
+@use "variables";
+
+.party {
+    background-image: linear-gradient(variables.$back_color, variables.$back_color_darken);
+    padding-top: 80px;
+
+    .container {
+        display: flex;
+        gap: 50px;
+    }
+
+    &--foods {
+        background-image: linear-gradient(variables.$back_color_darken, variables.$back_color);
+    }
+
+    &--attractions {
+        background-image: linear-gradient(variables.$back_color_darken, variables.$back_color);
+    }
+
+    &--img-right {
+        flex-direction: row-reverse;
+    }
+
+    &__img {
+        width: 300px;
+    }
+
+    &__description {
+        color: variables.$text_color;
+
+        h3 {
+            margin-bottom: 16px;
+        }
+    }
+
+    @media(max-width:1024px) {
+        .container {
+            max-width: 80%;
+            flex-direction: column;
+        }
+
+        &__img {
+            width: 200px;
+            margin: 0 auto;
+        }
+    }
+}

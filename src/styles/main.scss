@@ -1,4 +1,6 @@
 @use "hero";
+@use "party";
+@use "variables";
 
 
 * {
@@ -16,4 +18,32 @@
 
 li {
     list-style: none;
+}
+
+footer {
+    width: 100%;
+    background-image: linear-gradient(variables.$back_color, variables.$back_color_darken);
+
+    .container {
+        padding-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: variables.$text_color;
+        font-size: 12px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    ul {
+        margin-bottom: 20px;
+    }
+
+    li {
+        display: inline;
+        margin-right: 10px;
+    }
 }
