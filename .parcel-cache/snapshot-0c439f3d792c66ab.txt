@@ -36,7 +36,7 @@
 143C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\caniuse-lite\data\features\intersectionobserver.js133783149161354769 0
 130C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\caniuse-lite\data\features\css-all.js133783149147635405 0
 118C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\lines-and-columns\LICENSE133783149110255195 0
-84C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist133784015614022270 1
+84C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist133784023117972768 1
 159C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\LICENSE133783149110614233 0
 142C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\ordered-binary\.nyc_output\processinfo\index.json133783149122971195 0
 118C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@parcel\watcher\README.md133783149135497697 0
@@ -66,7 +66,7 @@
 116C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\semver\functions\lte.js133783149129074872 0
 127C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\caniuse-lite\data\features\heif.js133783149159669391 0
 121C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@parcel\logger\lib\Logger.js133783149145949916 0
-94C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\src\index.html133784015614191814 0
+94C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\src\index.html133784023116078144 0
 91C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\src\scripts133784015614201785 1
 119C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@parcel\utils\package.json133783149155094230 0
 130C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\entities\lib\generated\encode-html.js133783149125554303 0
@@ -121,7 +121,7 @@
 134C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@swc\helpers\src\_object_spread_props.mjs133783149160157977 0
 141C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133783149123360156 0
 122C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@swc\helpers\esm\_identity.js133783149148144052 0
-100C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\src\styles\main.scss133784015614251651 0
+100C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\src\styles\main.scss133784020629809100 0
 131C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\term-size\vendor\windows\term-size.exe133783149120338238 0
 129C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\@parcel\package-manager\src\utils.js133783149162172582 0
 115C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\node_modules\entities\lib\encode.js133783149126651357 0
@@ -4359,7 +4359,7 @@
 106C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\index.9196d890.js.map133784011711272294 0
 103C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\index.c8c116bd.css133784011711192496 0
 107C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\index.c8c116bd.css.map133784011711272294 0
-95C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\index.html133784015614022270 0
+95C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\index.html133784023117962801 0
 121C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\landing_page_aniversario.59712999.js133784015610915945 0
 125C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\landing_page_aniversario.59712999.js.map133784015610925917 0
 106C:\Users\Usuario\Documents\Guilherme.Dev\EBAC\Projetos\landing_page_aniversario\dist\linkedin.056f6a51.png133784011709924331 0
